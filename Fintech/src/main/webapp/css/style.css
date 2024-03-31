@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+.italico{
+	font-style: italic;
+}
+.negrito{
+	font-weight: bold;
+}
+.verde{
+	background-color: #32e817 !important;
+}
+.rosa{
+	background-color: #ff80ff !important;
+}
+.laranja{
+	background-color: #f7a409 !important;
+}
+.azul{
+	background-color: #0000ff !important;
+}
+.vermelho{
+	background-color: #ff0000 !important;
+}
+.amarelo{
+	background-color: #ffff00 !important;
+}
+.roxo{
+	background-color: #9902fd !important;
+}
+.preto{
+	background-color: #000000 !important;
+}
